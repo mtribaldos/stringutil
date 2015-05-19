@@ -1,7 +1,10 @@
+
 #ifndef __STRING_UTIL__
 #define __STRING_UTIL__
 
-
+/**
+  A utility class to complete lacking features in Qt QString class
+ */
 class StringUtil 
 {
 public:
